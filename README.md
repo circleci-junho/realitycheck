@@ -4,7 +4,7 @@ a
 ![](misc/reality_check.png)
 
 ---
-
+ 
 ## Installation
 To install and run reality check on your CircleCI Server installation, follow these steps.
 
