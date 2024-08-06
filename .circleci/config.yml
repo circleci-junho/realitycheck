@@ -177,6 +177,8 @@ jobs:
           sleep $SLEEP
           date
           echo 'Done sleeping.'
+          
+          sleep 10m
     environment:
       SLEEP: 1
   
